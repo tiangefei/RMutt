@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Paidia Stuff/Scenes/MainScene.unity
+  isLoaded: 1
+  isActive: 1

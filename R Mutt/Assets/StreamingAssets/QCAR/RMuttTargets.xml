@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="245_Park_Ave" size="50.000000 66.666664" />
+    <ImageTarget name="RueBarraultBalcony_Cleaned" size="1.000000 0.750000" />
+    <ImageTarget name="WhoIsRMutt_Sticker" size="1.000000 1.000000" />
+    <ImageTarget name="DuchampLetter" size="1.000000 0.479592" />
+  </Tracking>
+</QCARConfig>
